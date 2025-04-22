@@ -204,7 +204,6 @@ header {
 .intro-feature {
     display: flex;
     align-items: start;
-    min-width: 21.19vw;
 }
 
 .intro-title {
@@ -280,7 +279,6 @@ header {
 
 .collections-img > img{
     display: block;
-
     margin: 0 auto;
     max-height: 61.57vh;
 }
@@ -295,8 +293,6 @@ header {
 }
 
 .collections-content {
-    margin-left: 18.75vw;
-    margin-right: 3.65vw;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
